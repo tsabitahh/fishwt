@@ -6,5 +6,4 @@
 ![image](image/bar.png)
 ![image](image/line.png)
 
-- data from: [Tide for Fishing](https://tides4fishing.com/jp/okinawa/okinawa)
-- graph type: line and bar plot (matlibplot python)
+Data from: [Tide for Fishing](https://tides4fishing.com/jp/okinawa/okinawa)
