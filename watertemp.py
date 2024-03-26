@@ -24,6 +24,11 @@ plt.title("Water temperature in Okinawa March 2024")
 plt.ylabel("Water temperature (C)")
 plt.xlabel("Time period")
 
+# Label 2
+plt.title("Water temperature in Okinawa March 2024")
+plt.ylabel("Water temperature (C)")
+plt.xlabel("Time period")
+
 # Data output in in
 plt.plot(xpoints, ypoints)
 plt.show()
