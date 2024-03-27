@@ -32,7 +32,3 @@ plt.xlabel("Time period")
 # Data output in in
 plt.plot(xpoints, ypoints)
 plt.show()
-
-# Data conclusion
-# The average water temerature in Okinawa is 21 C. 
-# Since fish are lethargic and inactive to the cold/hot temperature, a consistent control schedule from daylight and night in days under 21 C is recommended.
