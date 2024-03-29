@@ -18,7 +18,6 @@ plt.show()
 xpoints = np.array(["03/20", "03/21", "03/22", "03/23", "03/24", "03/25", "03/26"])
 ypoints = np.array([21, 21, 21, 19, 19, 21, 21])
 
-# Label 2
 # Label
 plt.title("Water temperature in Okinawa March 2024")
 plt.ylabel("Water temperature (C)")
