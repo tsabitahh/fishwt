@@ -1,4 +1,4 @@
-## fishwt (water temperature data)
+## Water temperature data
 <h3>Description</h3>
 <ul>
   <li>In March, the waters around Okinawa are still relatively cool, with a slow increase in temperature as the region transitions from winter to spring. This period of gradual warming can cause fish behavior to become lethargic.</li>
